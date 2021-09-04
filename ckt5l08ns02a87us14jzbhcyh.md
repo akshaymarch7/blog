@@ -27,7 +27,7 @@ Haha, this would be a witty line to which all Engineers will be able to relate t
 This is open, you can come up with your own unique creative ideas, just make sure they are geeky. It could be funny, witty, motivating, or anything from Namaste JS also.
 
 **Who can participate?**
-- If you feel you can come up with creative ideas/designs which will look good on a t-shirt, you can participate
+- If you feel you can come up with creative ideas(designs) which will look good on a t-shirt, you can participate
 - No qualifications are required
 
 **How to Submit?**
@@ -63,5 +63,6 @@ Also, suggest any creative ideas in the comments.
 Cheers,   
 Akshay Saini
 
+Ps. don't have time for the promotion of this event, please help me share this on social media for maximum participation! ❤️
 
 
