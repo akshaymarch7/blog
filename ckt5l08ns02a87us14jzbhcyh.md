@@ -37,11 +37,12 @@ This is open, you can come up with your own unique creative ideas, just make sur
 -  I will retweet and share of Insta story if I like something to gauge people reactions also
 - there's No limit on submissions
 
-Join me on discord for all discussions/clarifications - https://discord.gg/aVHvWR44
-
 
 **When will the competition end?**
 - You have to submit your ideas before 5th September, 23:59:59 (IST)
+
+**Is there a place to connect and discuss?**
+Join me on discord for all discussions/clarifications - https://discord.gg/aVHvWR44
 
 **Winners**
 
