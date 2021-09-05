@@ -20,8 +20,8 @@ This is the name of the most popular video series on my Youtube Channel, people 
 This is the most famous quote from Namaste JavaScript series, a lot of my Youtube subscribers have already requested this to be printed on a tee. 
 - **undefined**  or **swag++** or any other 1-2 word print   
 Simple, plain, minimalistic wordplay with a geeky word or 2-word, we can play with fonts and colors and aesthetic to make it look cool
-- **Itni shakti hume dena DATA**  
-Haha, this would be a witty line to which all Engineers will be able to relate to.
+- **Itni shakti hume dena DATA**  or **Neki kar, GitHub pe daal** or any other 1 liner  
+Haha, this would be any Geeky witty line to which all Engineers will be able to relate to.
 
 - **Any creative technical line**  
 This is open, you can come up with your own unique creative ideas, just make sure they are geeky. It could be funny, witty, motivating, or anything from Namaste JS also.
@@ -50,8 +50,8 @@ The best 5 designs will be the winners
 - Winner 1:  for `Namaste JavaScript`
 - Winner 2: for `Time, Tide & JavaScript waits for none`
 - Winner 3: for 1-2 word minimalistic design ex. `undefined` or just `swag++`
-- Winner 4: for `Itni shakti hume dena DATA`
-- Winner 5: for `Your unique ideas`
+- Winner 4: for Geeky 1 liner idea. eg. `Itni shakti hume dena DATA` or `Neki kar, GitHub pe daal` or anything creative
+- Winner 5: for `Your unique idea` it could be anything Geeky
 
 what will you win?  
 - Of course free t-shirt with the design printed on it 
@@ -67,6 +67,6 @@ Also, suggest any creative ideas in the comments.
 Cheers,   
 Akshay Saini
 
-Ps. don't have time for the promotion of this event, please help me share this on social media for maximum participation! ❤️
+Ps. I did not get much time for the promotion of this event, please help me share this on social media for maximum participation! ❤️
 
 
