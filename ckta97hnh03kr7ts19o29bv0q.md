@@ -59,7 +59,7 @@ the actual problem is that these are not the core learning videos, when we had a
 Though we learned something from these videos, but it is not needed at this point of time.  
 
 *the BIGGEST problem is whenever Simran watches 8-10 such videos, she gets a feeling  of satisfaction that she **studied** a lot of things today.*    
-This is false satisfaction, we learned something, but we did not actually study anything, this is a **Satisfaction Trap**. (pradon me for using the words *learn* and *study* loosely here)
+This is false satisfaction, we learned something, but we did not actually study anything, this is a **Satisfaction Trap**. (pardon me for using the words *learn* and *study* loosely here)r
 
 and I call this as **Psuedo Learning**. It's learning, but not-a-learning. 🤷‍♂️
 
