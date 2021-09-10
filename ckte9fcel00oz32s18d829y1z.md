@@ -14,11 +14,11 @@ Finally after a lot of iterations, here is the list of the 5 winners of the comp
 
 ### Winners 🎉
 
-- **Manmohit Singh**
-- **Rucha Patil **
-- **Gaurav Ghongde**
-- **Ananya**
-- **Pranav Goel**
+- **Manmohit Singh** -  [designs](https://www.linkedin.com/posts/manmohitsingh_design-javascript-developer-activity-6839958104394780672-O43G) 
+- **Gaurav Ghongde** -  [designs](https://twitter.com/madebygaurav/status/1434461103690448901?s=20) 
+- **Ananya** -  [designs](https://twitter.com/DesignDev22/status/1434564306205495298?s=20) 
+- **Rucha Patil ** -  [designs](https://twitter.com/Rucha1499/status/1434228482217705474?s=20) 
+- **Pranav Goel** -  [designs](https://twitter.com/iipranavii/status/1434228525477683201?s=20) 
 
 Congratulations to each one of you! 🎉
 
